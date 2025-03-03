@@ -126,7 +126,7 @@ The application provides a clean and intuitive interface with the following key 
 ---
 
 ## 🖼️ Screenshots
-Add your actual screenshots in the `screenshots/` folder and replace the placeholders below.
+Here is reference snapshots of the portal pages - 
 
 | Organization Info | Create Invoice | Invoice View | Invoice History |
 |------------------|---------------|-----------------|-----------------|
