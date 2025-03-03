@@ -88,7 +88,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-OR
+Alternative (Recommended)
 
 ```bash
 python all_in_one_working_invoice_app.py
