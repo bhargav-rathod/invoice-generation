@@ -1,6 +1,0 @@
-tkinter
-sqlite3
-reportlab
-matplotlib
-pandas
-tkcalendar
