@@ -7,8 +7,7 @@ The **Invoice Generator Application** is a desktop-based tool designed to create
 ## 📌 Features
 
 ### 🔹 Create Invoices
-- Add customer details (name, email, contact).
-- Include multiple products with quantity and price.
+- Include customer details such as name, email, and contact number. The name field is mandatory, while email and contact number are optional. If provided, they should be reflected in the invoice.- Include multiple products with quantity and price.
 - Automatically calculate the total amount.
 - Generate and save invoices as PDFs.
 
@@ -18,7 +17,7 @@ The **Invoice Generator Application** is a desktop-based tool designed to create
 - Open and view PDF invoices directly from the application.
 
 ### 🔹 Organization Information
-- Add and save organization details (name, GST number, TIN number, address, email, contact).
+- Add and save organization details (name, GST number, TIN number, address, email, contact and logo - here only name is mandatory, others are optional params, if added then only reflected in the invoice).
 - Upload and display the organization logo on invoices.
 
 ### 🔹 Data Archiving
