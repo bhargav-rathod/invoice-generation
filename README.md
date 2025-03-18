@@ -43,10 +43,10 @@ The **Invoice Generator Application** is a desktop-based tool designed to create
 ### 🔹 Prerequisites
 Ensure you have the following installed on your system:
 - **Python 3.x**
-- Required Python libraries:
+- Required Python libraries (mentioned in requirements.txt):
   
   ```bash
-  pip install tkinter sqlite3 reportlab matplotlib pandas tkcalendar
+  tkinter sqlite3 reportlab matplotlib pandas tkcalendar
   ```
 
 ### 🔹 Database Setup
